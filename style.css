@@ -2,6 +2,26 @@
 	padding: 10px;
 	background-color: #e8e8e8;	
 }
+.divtop {
+	padding: 10px; 
+	background-color: #e8e8e8;
+}
+.divborder {
+	width: 1100px; 
+	margin: 0px auto; 
+	padding: 25px; 
+	border: 2px solid #000000; 
+	border-radius: 15px; 
+	background-color: #808080;
+}
+.divshadow {
+	width:100%; 
+	padding: 5px; 
+	border: 1px solid #000000;
+	border-radius: 8px;
+	box-shadow: #585858 4px 4px 4px 0px;
+	background-color: #f8f8f8;
+}
 .main {
 	width: 1100px;
 	margin: 0px auto;
